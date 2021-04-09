@@ -29,19 +29,19 @@ Check out my [🙋‍♀️ personal website](https://www.robbie.dev)!
 - [💷 Cash](https://robbie.cash) | [source code](https://github.com/robzwolf/cash)
 
 
+##### FreeAgent Bank Statement Formatters
+- 📒 Marcus2FreeAgent | [source code](https://github.com/robzwolf/marcus2freeagent)
+- 📒 NewDay2FreeAgent | [source code](https://github.com/robzwolf/newday2freeagent)
+- 📒 Starling2FreeAgent | [source code](https://github.com/robzwolf/starling2freeagent/tree/feature/updates)
+
+
 #### Hackathon Projects
-- [🫂 Refa](https://devpost.com/software/vhacks-2018) | VHacks | [source code](https://github.com/robzwolf/vhacks-2018)
+- [👥 Refa](https://devpost.com/software/vhacks-2018) | VHacks | [source code](https://github.com/robzwolf/vhacks-2018)
 - [🚄 Let's Book.](https://devpost.com/software/lets-book) | START Hack 2018 | [source code](https://github.com/robzwolf/sbb-hack)
 - [🍔 Nutrexa](https://devpost.com/software/nutrexa) | Hack Cambridge Ternary | [source code](https://github.com/robzwolf/nutrexa-hack)
 - [💰 Red to Black](https://devpost.com/software/red-to-black) | MLH Prime Europe Regional | [source code](https://github.com/robzwolf/redtoblack)
 - [🎶 Moodbox](https://devpost.com/software/moodbox) | Facebook London Hackathon 2018 | [source code](https://github.com/robzwolf/moodbox)
 - [🔦 Get Home Safe](https://devpost.com/software/get-home-safe) | DurHack 1 | [source code](https://github.com/robzwolf/get-home-safe)
-
-
-##### FreeAgent Bank Statement Formatters
-- 📒 Marcus2FreeAgent | [source code](https://github.com/robzwolf/marcus2freeagent)
-- 📒 NewDay2FreeAgent | [source code](https://github.com/robzwolf/newday2freeagent)
-- 📒 Starling2FreeAgent | [source code](https://github.com/robzwolf/starling2freeagent/tree/feature/updates)
 
 
 #### Assignments
