@@ -45,7 +45,7 @@ Check out my [🙋‍♀️ personal website](https://www.robbie.dev)!
 
 
 #### Assignments
-- [📝 WebGL Classroom](https://sm-cg.gh.robbie.dev) | [source code](https://github.com/robzwolf/sm-cg)
+- [📝 WebGL Classroom](https://sm-cg.gh.robbie.dev) | [source code](https://github.com/robzwolf/sm-cg/tree/gh-pages/)
 - 🔗 Distributed Systems | [source code](https://github.com/robzwolf/ns-networks)
 - 🎓 Dissertation – Conway's Game of Life | [source code](https://github.com/robzwolf/game-of-life)
 - 🌐 Web Personalisation | [source code](https://github.com/robzwolf/web-personalisation-coursework)
