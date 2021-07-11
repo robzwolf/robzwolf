@@ -51,7 +51,7 @@ Check out my [🙋‍♀️ personal website](https://www.robbie.dev)!
 - 🎓 Dissertation – Conway's Game of Life | [source code](https://github.com/robzwolf/game-of-life)
 - 🌐 Web Personalisation | [source code](https://github.com/robzwolf/web-personalisation-coursework)
 - 🎥 Computer Vision | [source code](https://github.com/robzwolf/computer-vision-coursework)
-- 🐘 TDD, TDD and Teamwork (PHP Yorkshire 2019) | [source code](https://github.com/robzwolf/tdd-ddd-teamwork)
+- 🐘 TDD, DDD and Teamwork (PHP Yorkshire 2019) | [source code](https://github.com/robzwolf/tdd-ddd-teamwork)
 - ⌨️ Huffman Coding | [source code](https://github.com/robzwolf/huffman/tree/master/submission)
 - 🖼️ Image Processing | [source code](https://github.com/robzwolf/sm-image-processing/tree/master/mira/submission)
 - 🤖 AI Search | [source code](https://github.com/robzwolf/sm-ai-search)
