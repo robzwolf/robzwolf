@@ -19,6 +19,7 @@ Check out my [🙋‍♀️ personal website](https://www.robbie.dev)!
 - [🏦 Major League **Banking**](https://major-league-banking.v.robbie.dev/) | [source code](https://github.com/robzwolf/major-league-banking)
 - [☔ Major League **Forecasting**](https://major-league-forecasting.v.robbie.dev/) | [source code](https://github.com/robzwolf/major-league-forecasting)
 - [🙌 Major League **Dominating** – Brand](https://major-league-dominating-brand.gh.robbie.dev/) | [source code](https://github.com/robzwolf/major-league-dominating-brand)
+- [✈ Major League **Packing**](https://major-league-packing.v.robbie.dev/) | [source code](https://github.com/robzwolf/major-league-packing)
 
 
 #### Utilities
