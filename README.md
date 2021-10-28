@@ -31,9 +31,10 @@ Check out my [🙋‍♀️ personal website](https://www.robbie.dev)!
 
 
 ##### FreeAgent Bank Statement Formatters
-- 📒 Marcus2FreeAgent | [source code](https://github.com/robzwolf/marcus2freeagent)
-- 📒 NewDay2FreeAgent | [source code](https://github.com/robzwolf/newday2freeagent)
-- 📒 Starling2FreeAgent | [source code](https://github.com/robzwolf/starling2freeagent/tree/feature/updates)
+- [💷 FreeAgent CSV Formatter](https://fcf.v.robbie.dev/) | [source code](https://github.com/robzwolf/freeagent-csv-formatter)
+- 📒 (archived) Marcus2FreeAgent | [source code](https://github.com/robzwolf/marcus2freeagent)
+- 📒 (archived) NewDay2FreeAgent | [source code](https://github.com/robzwolf/newday2freeagent)
+- 📒 (archived) Starling2FreeAgent | [source code](https://github.com/robzwolf/starling2freeagent/tree/feature/updates)
 
 
 #### Hackathon Projects
